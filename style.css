@@ -58,5 +58,39 @@ nav a {
     line-height: 40px;
     width:68%;
     padding: 20px;
-    margin:  auto;
+    margin: 0 auto;
+}
+.content .body {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.body p {
+    color:#333333;
+    font-weight: 100;
+    line-height: 34px;
+    width: 90%;
+    margin-top:18px;
+    margin-left: 60px;
+  
+}
+
+ /* Content button */
+
+.button {
+    border-radius: 4px;
+    color: #05A8AA;
+    display: block;
+    font-weight: 700;
+    width: 200px;
+    padding: 20px;
+    margin: 40px auto;
+    border: 1px solid blue;
+}
+
+.button:hover {
+    background-color:#05A8AA;
+    border: 1px solid #05A8AA;
+    color: #FFF;
+
 }
